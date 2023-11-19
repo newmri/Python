@@ -1,3 +1,0 @@
-1 | newmri@naver.com | 1
-2 | newmri@naver.com | 2
- | newmri@naver.com | 

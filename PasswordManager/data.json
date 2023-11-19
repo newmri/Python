@@ -1,0 +1,10 @@
+{
+    "a": {
+        "email": "newmri@naver.com",
+        "password": "a"
+    },
+    "b": {
+        "email": "newmri@naver.com",
+        "password": "d"
+    }
+}
